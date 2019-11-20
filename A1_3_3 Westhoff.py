@@ -16,3 +16,17 @@ def hiLo_game(guess):
         print ('Too high')
     if rand_num == guess:
         print ('Winner')
+
+       
+"""
+Documentation:
+1. Provide EOL comments of important items and describe their intended purpose using '#'
+2. Take out any additional EOL comments that are no longer necessay. 
+
+Spacing: 
+1. Provide appropriate spacing between lines to increase readability. 
+
+Coding:
+1. Recommend using an if, elif, else decision tree - you risk errors and longer computation times with the current decision tree. 
+
+"""
