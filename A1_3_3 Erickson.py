@@ -3,7 +3,7 @@ A1_3_2 Erickson.py
 Programmer:Wyatt Erickson
 """
 import random
-guess = 12
+guess = 24
 
 def hiLo_game(guess):
     rand_num = random.randint(1,100)
